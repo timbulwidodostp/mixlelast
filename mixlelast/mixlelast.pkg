@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'mixlelast': Mixed logit sample elasticities and marginal effects Use mixlelast With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mixlcov.ado
+f mixlelast.ado
+f mixlelast.sthlp
+f mixlog_d0.ado
+f mixlogit.ado
+f mixlogit.hlp
+f mixlpred.ado
