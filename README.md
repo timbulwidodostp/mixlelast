@@ -1,6 +1,8 @@
 # mixlelast
 Mixed logit sample elasticities and marginal effects Use mixlelast With STATA 18
 
+https://www.youtube.com/watch?v=BZqnlafyz1E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
